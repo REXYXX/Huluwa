@@ -45,4 +45,4 @@ Java中异常提供了一种识别及响应错误情况的一致性机制，有�
 运行程序，空格键开始战斗，R键重新战斗，L选择战局。（最精彩的战局保存为在battle目录下的Drasticest.txt）
 
 #### 战局展示
-![image]()</br>
+![image](screen/battle.png)
